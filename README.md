@@ -2,8 +2,6 @@
 
 ## pycharm
 
-[![Build Status] 
-
 Modified from: (https://travis-ci.org/Oefenweb/ansible-pycharm.svg?branch=master)](https://travis-ci.org/Oefenweb/ansible-pycharm)
 
 Set up [PyCharm](https://www.jetbrains.com/pycharm/).
