@@ -5,3 +5,4 @@ pycharm_edition: community
 pycharm_install_prefix: /opt
 pycharm_execution_file: /bin/pycharm.sh
 pycharm_downloads_path: /var/lib/ansible/pycharm/downloads
+Webserver_Location:
