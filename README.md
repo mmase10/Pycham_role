@@ -2,7 +2,9 @@
 
 ## pycharm
 
-[![Build Status] Modified from: (https://travis-ci.org/Oefenweb/ansible-pycharm.svg?branch=master)](https://travis-ci.org/Oefenweb/ansible-pycharm) [![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-pycharm-blue.svg)](https://galaxy.ansible.com/Oefenweb/pycharm)
+[![Build Status] 
+
+Modified from: (https://travis-ci.org/Oefenweb/ansible-pycharm.svg?branch=master)](https://travis-ci.org/Oefenweb/ansible-pycharm)
 
 Set up [PyCharm](https://www.jetbrains.com/pycharm/).
 
@@ -42,4 +44,4 @@ Mischa ter Smitten
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/Oefenweb/ansible-pycharm/issues)!
+Are [welcome](https://github.com/mmase10/Pycham_role/issues/new)!
