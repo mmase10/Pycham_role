@@ -1,0 +1,4 @@
+---
+- hosts: {{ target }}
+  roles:
+    - Pycharm_role
