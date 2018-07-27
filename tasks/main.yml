@@ -14,7 +14,7 @@
 
 - name: download
   get_url:
-    url: "http://rh-satellite.p7.local/pub/file-repository/pycharm/{{ pycharm_edition }}-{{ pycharm_version }}.tar.gz"
+    url: "{{ Webserver_Location }} {{ pycharm_edition }}-{{ pycharm_version }}.tar.gz"
     dest: "{{ pycharm_downloads_path }}/pycharm-{{ pycharm_edition }}-{{ pycharm_version }}.tar.gz"
     owner: root
     group: root
