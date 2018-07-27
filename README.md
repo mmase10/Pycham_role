@@ -40,7 +40,7 @@ MIT
 
 #### Author Information
 
-Mischa ter Smitten
+mmase10
 
 #### Feedback, bug-reports, requests, ...
 
